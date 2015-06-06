@@ -46,7 +46,6 @@ namespace Paths
                     Point3D.Point3D pnt3d = new Point3D.Point3D(x, y, z);
                     path.Points.Add(pnt3d);
                 }
-                
             } 
         }
     }

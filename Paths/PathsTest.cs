@@ -34,10 +34,6 @@ namespace Paths
             {
                 Console.WriteLine(pnt3D.ToString());
             }
-
-
-            
-
         }
     }
 }
