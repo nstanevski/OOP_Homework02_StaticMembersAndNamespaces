@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_DistanceCalculator", "Di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Paths", "Paths\03_Paths.csproj", "{3DB34F4F-4E67-4DFF-A7E5-D636D20EA56B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Namespaces", "Namespaces\Namespaces.csproj", "{8BE300BC-36EC-44EB-99E9-575E49D3FD71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Namespaces", "Namespaces\04_Namespaces.csproj", "{8BE300BC-36EC-44EB-99E9-575E49D3FD71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
